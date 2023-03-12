@@ -24,4 +24,3 @@ config.js
 *.sln
 *.sw?
 chatRecord.json
-config/.env
