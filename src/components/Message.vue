@@ -60,6 +60,10 @@ function getAvatar(role: string) {
         position: relative;
         word-break: break-word;
 
+        img {
+            max-width: 100%;
+        }
+
         &:before {
             width: 0;
             content: "";
