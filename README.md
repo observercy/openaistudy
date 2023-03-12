@@ -5,3 +5,8 @@
 客户端 npm run dev 
 
 服务端 npm run server
+
+
+<p>
+  <img src="https://github.com/observercy/openaistudy/blob/main/docs/about.png" width="100%">
+</p>
